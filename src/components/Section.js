@@ -10,12 +10,12 @@ export default function makeSection(k, posVec2, sectionName, onCollide = null) {
     sectionName,
   ]);
 
-  section.add([
-    k.text(sectionName, { font: "ibm-bold", size: 64 }),
-    k.color(PALETTE.color1),
-    k.anchor("center"),
-    k.pos(0, -150),
-  ]);
+    section.add([
+        k.text(sectionName, { font: "ibm-bold", size: 64 }),
+        k.color(PALETTE.color1),
+        k.anchor("center"),
+        k.pos(0, -150),
+    ]);
 
   if (onCollide) {
     const onCollideHandler = section.onCollide("player", () => {
