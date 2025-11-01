@@ -1,0 +1,52 @@
+[
+  {
+    "pos": { "x": 300, "y": 250 },
+    "name": "GitHub",
+    "description": "GitHub is where I host my projects.",
+    "link": "https://github.com/yu5ufyilmaz",
+    "logoData": { "name": "github-logo", "width": 228.6, "height": 179.5 }
+  },
+  {
+    "pos": { "x": 500, "y": 250 },
+    "name": "YouTube",
+    "description": "I will post my game dev videos there soon.",
+    "link": "https://youtube.com/@yu5ufyilmaz",
+    "logoData": {
+      "name": "youtube-logo",
+      "width": 160,
+      "height": 110
+    }
+  },
+  {
+    "pos": { "x": 700, "y": 250 },
+    "name": "Behance",
+    "description": "Here is my Behance, I don't really use it much.",
+    "link": "https://www.behance.net/yusufylmaz20",
+    "logoData": {
+      "name": "behance-logo",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": { "x": 900, "y": 250 },
+    "name": "LinkedIn",
+    "description": "I post my work there.",
+    "link": "https://www.linkedin.com/in/yu5ufyilmaz/",
+    "logoData": {
+      "name": "linkedin-logo",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": { "x": 1100, "y": 250 },
+    "name": "Email",
+    "address": "ysfyilmaz6@gmail.com",
+    "logoData": {
+      "name": "email-logo",
+      "width": 128,
+      "height": 128
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "pos": { "x": 150, "y": -100 },
+    "cardHeight": 250,
+    "roleData": {
+      "title": "Game Developer",
+      "description": "Developed Unity projects from scratch, participating in all stages of the development process.",
+      "company": {
+        "name": "[\\REDACTED]",
+        "startDate": "Jun 2025",
+        "endDate": "Present"
+      }
+    }
+  },
+  {
+    "pos": { "x": 150, "y": 180 },
+    "cardHeight": 250,
+    "roleData": {
+      "title": "Game Developer",
+      "description": "I developed a game in Unity using C#. I focused on developing mechanics and gameplay.",
+      "company": {
+        "name": "Booda Games",
+        "startDate": "Feb 2024",
+        "endDate": "Jul 2024"
+      }
+    }
+  }
+]
