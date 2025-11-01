@@ -61,8 +61,10 @@ export default async function initGame() {
   k.loadSprite("illustrator-logo", "./logos/illustrator-logo.png");
   k.loadSprite("premiere-logo", "./logos/premiere-logo.png");
   k.loadSprite("email-logo", "./logos/email-logo.png");
-  k.loadSprite("sonic-js", "./projects/sonic-js.png");
-  k.loadSprite("kirby-ts", "./projects/kirby-ts.png");
+  k.loadSprite("sins-unveiled", "./projects/sins-unveiled.png");
+  k.loadSprite("hire-room", "./projects/hire-room.png");
+  k.loadSprite("lucky-strike", "./projects/lucky-strike.png");
+  k.loadSprite("vaporhell", "./projects/vaporhell.png");
   k.loadSprite("platformer-js", "./projects/platformer-js.png");
   k.loadShaderURL("tiledPattern", null, "./shaders/tiledPattern.frag");
 
