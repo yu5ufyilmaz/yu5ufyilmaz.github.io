@@ -1,6 +1,25 @@
 [
   {
     "pos": { "x": 0, "y": 350 },
+    "thumbnail": "senzora",
+    "data": {
+      "title": "Senzora",
+      "links": [
+        {
+          "id": 0,
+          "name": "Source Code",
+          "link": "https://github.com/yu5ufyilmaz/Atomb"
+        },
+        {
+          "id": 1,
+          "name": "Youtube Video",
+          "link": "https://youtu.be/g_NHncLpR8Q?si=ZFx-e0aDIgzwgfOu"
+        }
+      ]
+    }
+  },
+  {
+    "pos": { "x": 0, "y": 840 },
     "thumbnail": "sins-unveiled",
     "data": {
       "title": "Sins Unveiled",
@@ -19,7 +38,7 @@
     }
   },
   {
-    "pos": { "x": 0, "y": 840 },
+    "pos": { "x": 0, "y": 1320 },
     "thumbnail": "lucky-strike",
     "data": {
       "title": "Lucky Strike",
@@ -31,14 +50,33 @@
         },
         {
           "id": 1,
-          "name": "Source Code",
-          "link": "https://github.com/Duzz41/AnkaraJam"
+          "name": "Youtube Video",
+          "link": "https://youtu.be/EgWL8uaJCyA?si=SjbILVE_NPrC_mTG"
         }
       ]
     }
   },
   {
-    "pos": { "x": 0, "y": 1320 },
+    "pos": { "x": 0, "y": 2280 },
+    "thumbnail": "hire-room",
+    "data": {
+      "title": "Hire Room",
+      "links": [
+        {
+          "id": 0,
+          "name": "Source Code",
+          "link": "https://github.com/yu5ufyilmaz/HireRoom"
+        },
+        {
+          "id": 1,
+          "name": "Youtube Video",
+          "link": "https://youtu.be/uXlu7fE7Pt8?si=Q0pCb4fK2XI-6ppa"
+        }
+      ]
+    }
+  },
+  {
+    "pos": { "x": 0, "y": 1800 },
     "thumbnail": "vaporhell",
     "data": {
       "title": "Vaporhell",

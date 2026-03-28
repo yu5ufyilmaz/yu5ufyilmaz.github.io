@@ -64,6 +64,7 @@ export default async function initGame() {
   k.loadSprite("sins-unveiled", "./projects/sins-unveiled.png");
   k.loadSprite("hire-room", "./projects/hire-room.png");
   k.loadSprite("lucky-strike", "./projects/lucky-strike.png");
+  k.loadSprite("senzora", "./projects/senzora.png");
   k.loadSprite("vaporhell", "./projects/vaporhell.png");
   k.loadSprite("platformer-js", "./projects/platformer-js.png");
   k.loadShaderURL("tiledPattern", null, "./shaders/tiledPattern.frag");
